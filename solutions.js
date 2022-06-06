@@ -20,3 +20,66 @@
  * and
  * concat
  */
+
+
+// function isTrue(x) {
+//     return x == true;
+// }
+// console.log(isTrue(true));
+
+
+// function isFalse(x) {
+//     return x == false;
+// }
+// console.log(isFalse(0));
+
+
+// function not(x) {
+//     return x != true;
+// }
+// console.log(not(true));
+
+
+// function addOne(x) {
+//     return ++x;
+// }
+// console.log(addOne(5));
+
+
+// function isEven(x) {
+//     return x % 2 == 0;
+// }
+// console.log(isEven(3));
+
+
+// function isIdentical(x, y) {
+//     return x === y;
+// }
+// console.log(isIdentical(2, "2"));
+
+
+// function isEqual(x, y) {
+//     return x == y;
+// }
+// console.log(isEqual(3, 3));
+
+
+// function or(x, y) {
+//     return x || y;
+// }
+// console.log(or(true, false));
+
+
+// function and(x, y) {
+//     return x && y;
+// }
+// console.log(and(true, false));
+
+
+function concat(x, y) {
+    return x + y;
+}
+console.log(concat('4', 'srth'));
+
+
+
